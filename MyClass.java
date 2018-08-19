@@ -1,5 +1,5 @@
-Class MyClass {
+class MyClass {
 
-  Public Static VOid main(String args []){
+  public static void main(String args []){
   }
   }
